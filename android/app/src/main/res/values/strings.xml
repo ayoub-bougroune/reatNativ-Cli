@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Munchy</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyA5inKzV41b7nF_8QEykns7JngClNyZo-M</string>
+</resources>
